@@ -1,0 +1,58 @@
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+
+    color: black;
+}
+#zuu {
+    color: #254558;
+}
+#xu { 
+    width: 200px;
+    border-radius: 30px;
+    padding: 80px;
+    background-color:hsla(0, 0%, 0%, 0.182);
+    border-style: center;
+    margin: auto;
+    text-align: center;
+    
+}
+#xu:hover{
+    
+    background-color: #5bcdf63f;
+}
+#xx {
+    width: 120px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color:hsla(0, 0%, 0%, 0.182);
+    text-align: center;
+    position:absolute;
+    top:50px;
+    right:25px;
+
+}
+.ee{
+    text-align: left;
+}
+#xx:hover{
+    background-color: #5bcdf63f;
+}
+table{
+    margin: auto;
+    text-align: center;
+    
+  }
+#tux{
+    width: 400px;
+    border-radius: 15px;
+    padding: 30px;
+    background-color:hsla(0, 0%, 0%, 0.182);
+    margin: auto;
+}
+#tux:hover{
+    background-color: #5bcdf63f;
+}
